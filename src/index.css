@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  text-align: center;
+}
+
+#root {
+  margin: 10px 100px;
+}
+
+.todobtn {
+  margin-right: 10px;
+}
